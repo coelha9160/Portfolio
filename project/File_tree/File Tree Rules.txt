@@ -1,0 +1,14 @@
+File Tree
+
+- asset / shot / production / tmp 로 세분화
+- Asset type : char / env / prop / veh (소문자 사용)
+- Asset Step : art / ldv / mdl / rig / txt
+- Shot Name : {Sequence_name}_{Shot_name}
+    - ex) S001 / S001_0010
+- Shot Step : ani / cmp / fx / lay / lgt / plate
+- production : Asset, Shot list excel file
+
+- file name(asset) : {PROJECT NAME}_{asset type}_{asset name}_{asset step}_{dev or pub}_{sub name}_{version}
+    - ex) SAN_char_cinnamoroll_mdl_pub_lod0_v001.mb
+- file name(shot) : : {PROJECT NAME}_{sequence name}_{shot name}_{shot step}_{dev or pub}_{sub name}_{version}
+    - ex) SAN_S0001_0010_fx_dev_sim_dfx_default_v001.hip
