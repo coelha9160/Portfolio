@@ -18,7 +18,6 @@
     - WESTWORLD Team Project link : https://github.com/shotgrid-starter/set_pipeline_start/tree/dev
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
