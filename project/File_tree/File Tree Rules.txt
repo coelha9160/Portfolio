@@ -1,6 +1,6 @@
 File Tree
 
-- asset / shot / production / tmp 로 세분화
+- asset / shot / production / tmp
 - Asset type : char / env / prop / veh
 - Asset Step : art / ldv / mdl / rig / txt
 - Shot Name : {Sequence_name}_{Shot_name}

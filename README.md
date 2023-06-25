@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently Pipeline TD trainee from WESTWORLD
 
+- 🌱 I am currently studying c++
+
 - 📫 How to reach me **[coelha9160@gmail.com](mailto:coelha9160@gmail.com)**
 
 - 📙 Check out my resume.
