@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lee euimin</h1>
 <h3 align="center">Pipeline TD</h3>
 
-- 🔭 I’m currently Pipeline TD trainee from WESTWORLD
+- 🔭 I was a Pipeline TD trainee from WESTWORLD.
 
 - 🌱 I am currently studying c++
 
